@@ -1,0 +1,36 @@
+
+
+.logo img {
+    width: 150px;
+  }
+  
+  .page-header,
+  .page-footer {
+    background: #8aea92;
+    color: #33202a;
+  }
+  
+  .product > h2 {
+    color: #80ada0;
+  }
+  
+  .product-1 {
+    background-color: #DC143C;
+    color: #00FF00;
+  }
+  
+  .product-2 {
+    background-color: #FF4500;
+    color: #FFFF00; 
+  }
+  
+  .product-3 {
+    background-color: #00FF00;
+    color: #FFFF00; 
+  }
+  
+  .product-4 {
+    background-color: #4B0082;
+    color: #FF3333;
+  }
+  
